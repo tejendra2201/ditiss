@@ -1,1 +1,1 @@
-# ditiss
+# ditiss is not a repository
